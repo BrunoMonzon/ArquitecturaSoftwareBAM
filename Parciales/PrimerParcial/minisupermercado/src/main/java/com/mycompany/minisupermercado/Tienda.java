@@ -19,7 +19,7 @@ public class Tienda {
             System.out.println("2. Registrar Producto");
             System.out.println("3. Registrar Venta");
             System.out.println("4. Salir");
-            System.out.print("Seleccione una opción: ");
+            System.out.print("Seleccione una opcion: ");
             opcion = scanner.nextInt();
             scanner.nextLine();
 
